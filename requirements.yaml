@@ -1,0 +1,7 @@
+dependencies:
+  - name: project_id_for_st2-frontend-chart
+    repository: https://artifactory.dagility.com/artifactory/helm/
+    version: 0.1.0
+  - name: project_id_for_st2-backend-chart
+    repository: https://artifactory.dagility.com/artifactory/helm/
+    version: 0.1.0
